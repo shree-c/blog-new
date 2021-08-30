@@ -5,3 +5,4 @@ git push
 cd _site
 git add .
 git commit -m "committed on `date`"
+git push
